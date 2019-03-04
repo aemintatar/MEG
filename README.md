@@ -1,2 +1,2 @@
 # MEG
-We post Matlab and R codes of our project.
+We post Matlab, R, and Python codes of our project which is about using topological data analysis (TDA) method, Mapper, to understand evolving patterns of brain activity during working memory n-back task. We work with the source-level preprocessed magnetoencephalography (MEG) dataset.
